@@ -94,8 +94,8 @@ To build KalyeFeast’s technological architecture, the developer leveraged vari
 * Support multiple languages, especially Filipino, to cater to a diverse audience.
 * Allow users to choose their preferred currency for transactions.
     
-<!-- TEAM BEHIND PLM-VVM -->
-## Team Behind PLM-VVM
+<!-- TEAM BEHIND KALYEFEAST -->
+## Team Behind KalyeFeast
 * <strong>Paulo Danque</strong> - Project Manager and Lead Front End and Back End Developer
 * Duraemond Baluyot - Business Analyst
 * Jarish Pruedence De Alzon - Documentation
