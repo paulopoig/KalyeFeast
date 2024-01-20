@@ -1,14 +1,14 @@
 
 <!-- PROJECT LOGO -->
 
-  ![MasterHead](https://github.com/paulopoig/PLM-VVM/assets/78188625/10df8aa8-5312-4c0b-947a-a132c4274bec)
+  ![MasterHead](https://github.com/paulopoig/KalyeFeast/assets/78188625/046427d4-be19-4619-b35f-a45f92254592)
 
-  <h1 align="center">PLM-VVM</h1>
+  <h1 align="center">KalyeFeast</h1>
 
   <p align="center">
-    An E-Voting Mobile Application designed and developed for Pamantasan ng Lungsod ng Maynila
+    An E-Commerce Website Made To Deliver Street Food Goodness Right to Your Doors!
     <br />
-    <a href="https://docs.google.com/document/d/1DuJeo9jPDymLdiOk2fj8YA4oNImGuDPo/edit?fbclid=IwAR0SrmQUGVfXsyedA_8XuEuEml8uJLZPj0JdSsJ7K98l-XL2IVcVGxEsLKE"><strong>See Documentations</strong></a>
+    <a href="https://docs.google.com/document/d/1dq06X6ntbTxkyM1mHLpL4KBW1nKf4SB-/edit?usp=sharing&ouid=104373750835979937376&rtpof=true&sd=true"><strong>See Documentation</strong></a>
     .
     <a href="https://youtu.be/EiDuVYKZUM4?si=nb3YNV1Q6ulnT-Gz"><strong>Watch Application Demo</strong></a>
     <br />
@@ -23,11 +23,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project was developed as a course requirement for "Application Development" with the goal of creating a useful application that addresses a real-world issue. PLM-VVM (Pamantasan ng Lungsod ng Maynila - Virtual Voting Machine) was conceived to tackle problems faced by our university in conducting Supreme Student Elections using online forms.
+KalyeFeast was started as a project for my university course. The goal was to build an e-commerce website using a Content Management System (CMS). Content Management Systems offer a wide range of ready-made tools and templates that enable rapid deployment of an online platform. We used Joomla, a free and open source CMS, and incorporated all the core functions - create, read, update, delete (CRUD) - required for operating an e-commerce shop.
 
-The purpose of this project is to provide a faster voting solution for PLM's student elections. Implementing a Virtual Voting Machine (VVM) can help prevent common errors, reduce fraud, and expedite vote counting.
+The purpose of KalyeFeast is to sell delicious Filipino street food while also promoting the diverse food culture of the Philippines. It helps small food vendors reach more hungry customers looking for a taste of iconic street eats. The website shows hand-drawn sketches of popular snacks to give that nostalgic, appetizing feel.
 
-PLM-VVM follows Create, Read, Update, and Delete principles as a framework for voting scenarios. It was further improved by adding an authentication system that restricts voting to only Pamantasan ng Lungsod ng Maynila students.
+For both sellers and food lovers, We hope KalyeFeast can open up new chances to either build a business or try something new and tasty. By celebrating these humble but cherished foods, our dream is that KalyeFeast captures the welcoming spirit of the ever-vibrant Philippine streets.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -37,7 +38,7 @@ PLM-VVM follows Create, Read, Update, and Delete principles as a framework for v
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+* ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)
 * ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 * ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 * ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
