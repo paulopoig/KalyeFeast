@@ -34,7 +34,7 @@ For both sellers and food lovers, We hope KalyeFeast can open up new chances to 
 
 
 
-### Built With
+## Built With
 
 To build KalyeFeast’s technological architecture, the developer leveraged various versatile and high-performing frameworks and software libraries, including:
 
@@ -53,62 +53,62 @@ To build KalyeFeast’s technological architecture, the developer leveraged vari
 <!-- SYSTEM FEATURES -->
 ## System Features
 
-### 1. Splash Screen 
-### 2. Authenticated Sign in and Log in [VOTER]
-  * 2.1 Sign-In [VOTER]
-  * 2.2 Authentication [VOTER]
-  * 2.3 Login Before Authenticating [VOTER]
-  * 2.4 Login After Authenticating [VOTER] 
- ### 3. Authenticated Sign in and Log in [ADMIN] -
-  * 3.1 Sign-In [ADMIN]
-  * 3.2 Authentication [ADMIN]
-  * 3.3 Login Before Authenticating [ADMIN]
-  * 3.4 Login After Authenticating [ADMIN]
-### 4. Forget Password [ADMIN and VOTER]
-  * 4.1 Enter Email to Change Password [ADMIN and VOTER]
-### 5. [ADMIN] Features
-  * 5.1 Create Candidates
-  * 5.1.1 Create President
-  * 5.1.2 Create Vice-President
-  * 5.1.3 Create Secretary
-  * 5.1.4 Create Treasurer
-  * 5.2. Edit Candidates
-  * 5.2.1 Edit President
-  * 5.2.2 Edit Vice-President
-  * 5.2.3 Edit Secretary
-  * 5.2.4 Edit Treasurer
-  * 5.3 Delete Candidates
-  * 5.3.1 Delete President
-  * 5.3.2 Delete Vice-President
-  * 5.3.3 Delete Secretary
-  * 5.3.4 Delete Treasurer
-  * 5.4 Log out
-### 6. [VOTER] Features
-  * 6.1 Vote Candidates
-  * 6.1.1 Vote President
-  * 6.1.2 Vote Vice-President
-  * 6.1.3 Vote Secretary
-  * 6.1.4 Vote Treasurer
-  * 6.2 See Candidates' Tally
-  * 6.2.1 See Presidents' Tally
-  * 6.2.2 See Vice-Presidents' Tally
-  * 6.2.3 See Secretaries' Tally
-  * 6.2.4 See Treasurers' Tally
-  * 6.3 Log out
+### 1. User Registration and Profiles:
+* Allow users to create accounts and manage their profiles.
+* Save order history and preferences for a personalized experience.
+
+### 2. Product Listings:
+* Display a variety of Filipino street foods with detailed descriptions and images.
+* Categorize items for easy navigation (e.g., grilled, fried, skewered).
+* Provide nutritional information and any relevant details.
+
+### 3. Search and Filters:
+* Implement a robust search functionality for users to find specific street foods.
+* Use filters for dietary preferences, price range, popularity, etc.
+
+### 4. Shopping Cart and Checkout:
+* Enable users to add items to a cart for easy shopping.
+* Provide a seamless and secure checkout process with multiple payment options.
+* Include an order summary and confirmation page.
+
+### 5.User Reviews and Ratings:
+* Allow customers to leave reviews and ratings for each street food product.
+* Showcase positive feedback to build trust among potential buyers.
+
+### 6. Vendor Management:
+* Provide a platform for street food vendors to create and manage their profiles.
+* Include a dashboard for vendors to update inventory, track orders, and manage payments.
+
+### 7. Mobile Responsiveness:
+* Ensure the website is accessible and functional on various devices, especially mobile phones.
+
+### 8. Shipping and Delivery Tracking:
+* Integrate a reliable shipping system with real-time tracking information.
+* Notify customers of their order status and estimated delivery times.
+
+### 9. Promotions and Discounts:
+* Implement a system for running promotions, discounts, and coupon codes.
+* Highlight special offers or combo deals to attract more customers.
+
+### 10. Language and Currency Options:
+* Support multiple languages, especially Filipino, to cater to a diverse audience.
+* Allow users to choose their preferred currency for transactions.
     
 <!-- TEAM BEHIND PLM-VVM -->
 ## Team Behind PLM-VVM
-* Paulo Danque - Lead Front End and Back End Developer
-* John Andrew Anos - Front End Developer
-* Arianne Andrea Conde - Documentation
-* Jem Cherlisse Aquino - Documentation
+* <strong>Paulo Danque</strong> - Project Manager and Lead Front End and Back End Developer
+* Duraemond Baluyot - Business Analyst
+* Jarish Pruedence De Alzon - Documentation
+* Bernard Manlutac - Business Analyst
+* John Michael Placido - Documentation
+* Karryle Cynille Gabrielle Santos - Business Analyst
 
 <!-- CONTACT -->
 ## Contact
-If you have any questions about this project or would like to use this framework for your own use case, please feel free to contact me at [insert email address].
+If you have any questions about this project or would like to use this framework for your use case, please feel free to contact me at [insert email address].
 Paulo Danque - paulobrave17@gmail.com
 
-I'm happy to provide more details on the implementation, assist with adapting it to your needs, or discuss any other aspects of PLM-VVM. Your feedback is also welcome as it will help strengthen and extend this voting platform to best serve students across various universities. Please reach out anytime.
+I'm happy to provide more details on the implementation, assist with adapting it to your needs, or discuss any other aspects of KalyeFeast. Your feedback is also welcome as it will help strengthen and extend this e-commerce platform to best serve street food vendors across various places in the Philippines. Please reach out anytime.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
