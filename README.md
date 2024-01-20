@@ -10,7 +10,7 @@
     <br />
     <a href="https://docs.google.com/document/d/1dq06X6ntbTxkyM1mHLpL4KBW1nKf4SB-/edit?usp=sharing&ouid=104373750835979937376&rtpof=true&sd=true"><strong>See Documentation</strong></a>
     .
-    <a href="https://youtu.be/EiDuVYKZUM4?si=nb3YNV1Q6ulnT-Gz"><strong>Watch Application Demo</strong></a>
+    <a href="https://youtu.be/lAqbu84Ttyw?si=aSySZ7XQrk_KGYae"><strong>Watch Application Presentation</strong></a>
     <br />
     <br />
    
@@ -23,7 +23,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-KalyeFeast was started as a project for my university course. The goal was to build an e-commerce website using a Content Management System (CMS). Content Management Systems offer a wide range of ready-made tools and templates that enable rapid deployment of an online platform. We used Joomla, a free and open source CMS, and incorporated all the core functions - create, read, update, delete (CRUD) - required for operating an e-commerce shop.
+KalyeFeast was started as a project for my university course. The goal was to build an e-commerce website using a Content Management System (CMS). Content Management Systems offer a wide range of ready-made tools and templates that enable rapid deployment of an online platform. We used Joomla, a free and open-source CMS, and incorporated all the core functions - create, read, update, delete (CRUD) - required for operating an e-commerce shop.
 
 The purpose of KalyeFeast is to sell delicious Filipino street food while also promoting the diverse food culture of the Philippines. It helps small food vendors reach more hungry customers looking for a taste of iconic street eats. The website shows hand-drawn sketches of popular snacks to give that nostalgic, appetizing feel.
 
@@ -36,12 +36,15 @@ For both sellers and food lovers, We hope KalyeFeast can open up new chances to 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+To build KalyeFeast’s technological architecture, the developer leveraged various versatile and high-performing frameworks and software libraries, including:
 
 * ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)
-* ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-* ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-* ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+* ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+* ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
