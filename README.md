@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<a href="https://www.behance.net/gallery/189469403/KalyeFeast"><img src="https://github.com/paulopoig/Patrick-s-Pizza-/assets/78188625/b58acd06-82b8-4c40-8a93-a1b90d8f63e9" alt="KalyeFeast Website Showcase"></a>
 
 KalyeFeast was started as a project for my university course. The goal was to build an e-commerce website using a Content Management System (CMS). Content Management Systems offer a wide range of ready-made tools and templates that enable rapid deployment of an online platform. We used Joomla, a free and open-source CMS, and incorporated all the core functions - create, read, update, delete (CRUD) - required for operating an e-commerce shop.
 
