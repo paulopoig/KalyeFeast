@@ -105,7 +105,7 @@ To build KalyeFeast’s technological architecture, the developer leveraged vari
 
 <!-- CONTACT -->
 ## Contact
-If you have any questions about this project or would like to use this framework for your use case, please feel free to contact me at [insert email address].
+If you have any questions about this project or would like to use this framework for your use case, please feel free to contact me at:
 Paulo Danque - paulobrave17@gmail.com
 
 I'm happy to provide more details on the implementation, assist with adapting it to your needs, or discuss any other aspects of KalyeFeast. Your feedback is also welcome as it will help strengthen and extend this e-commerce platform to best serve street food vendors across various places in the Philippines. Please reach out anytime.
